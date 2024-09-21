@@ -21,10 +21,10 @@ public class Lab_01_13_09_24 {
         dat = x;
         //st = y;
     }
-    Lab_01_13_09_24(Lab_01_13_09_24 a)
+    Lab_01_13_09_24(Lab_01_13_09_24 obj)
     {
-        dat = a.dat;
-        st = a.st;
+        dat = obj.dat;
+        st = obj.st;
     }
 
     public static void main(String[] args) {
