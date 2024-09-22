@@ -17,10 +17,10 @@ public class dog extends Animal{
     }
 
 
-    public static void main(String[] args) {
+ /*    public static void main(String[] args) {
         dog obj = new dog();
         obj.setter("red ", "gheu gheu");
         obj.getter();
     }
-    
+      */
 }
